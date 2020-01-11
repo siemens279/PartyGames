@@ -31,7 +31,7 @@ public class Game1ViewModel extends AndroidViewModel {
     }
 
     public LiveData<String> getQuestion() {
-        Log.d("Tag", "getQuestion:" + question.toString());
+        //Log.d("Tag", "getQuestion:" + question.toString());
         return question;
     }
 
