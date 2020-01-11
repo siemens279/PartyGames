@@ -1,6 +1,7 @@
 package com.example.partygames.game1;
 
 import android.app.Application;
+import android.util.Log;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
@@ -30,7 +31,7 @@ public class Game1ViewModel extends AndroidViewModel {
     }
 
     public LiveData<String> getQuestion() {
-        //Log.d("Tag", "getQuestion:" + question.toString());
+        Log.d("Tag", "getQuestion:" + question.toString());
         return question;
     }
 
