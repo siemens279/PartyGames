@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "58159001084",
+    "firebase_url": "https://gameforoll.firebaseio.com",
+    "project_id": "gameforoll",
+    "storage_bucket": "gameforoll.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58159001084:android:e17fc807ad3b3787b4d679",
+        "android_client_info": {
+          "package_name": "com.example.newyear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58159001084-ccdarki1nj98e4jm35fvpmubnq9jgc9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newyear",
+            "certificate_hash": "ec111ef1a13a0a87bc10b96545268bc2748d0652"
+          }
+        },
+        {
+          "client_id": "58159001084-3oihh1dr33p6adjkfm0rhu2alfe16t2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJAszKaGNgfhXK01PM_2Jo92qLKk6xDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58159001084-3oihh1dr33p6adjkfm0rhu2alfe16t2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58159001084:android:a8e10dd50ddc7b15b4d679",
+        "android_client_info": {
+          "package_name": "com.example.partygames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58159001084-6l6jgpvv5rivvnprtns3i8c8v2nu06o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.partygames",
+            "certificate_hash": "ec111ef1a13a0a87bc10b96545268bc2748d0652"
+          }
+        },
+        {
+          "client_id": "58159001084-3oihh1dr33p6adjkfm0rhu2alfe16t2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJAszKaGNgfhXK01PM_2Jo92qLKk6xDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58159001084-3oihh1dr33p6adjkfm0rhu2alfe16t2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
